@@ -33,6 +33,7 @@ Click on the link and boom 🌻✌
 * html
 * css
 * jquery
+* UI designed by myself.
 
 Issues
 ==========
