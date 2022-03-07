@@ -30,6 +30,8 @@ Its useful for simple calculations.
 Click on the link and boom 🌻✌
 # <a href="https://iamrahul8.github.io/Calculator/" >Calculator ↗</a> 
 
+## Screenshot
+![calcscreen](image_2022-03-07_185315.png)
 
 Issues
 ==========
