@@ -9,6 +9,15 @@ A simple Calculator for general purposes.
 
 Its useful for simple calculations.
 
+## How to Run?
+
+Click on the link and boom 🌻✌
+# <a href="https://iamrahul8.github.io/Calculator/" >Calculator ↗</a> 
+
+## Screenshot
+![calcscreen](image_2022-03-07_185315.png)
+
+
 ## Features
 
 * Add
@@ -24,14 +33,6 @@ Its useful for simple calculations.
 * html
 * css
 * jquery
-
-## How to Run?
-
-Click on the link and boom 🌻✌
-# <a href="https://iamrahul8.github.io/Calculator/" >Calculator ↗</a> 
-
-## Screenshot
-![calcscreen](image_2022-03-07_185315.png)
 
 Issues
 ==========
