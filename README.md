@@ -1,7 +1,7 @@
 
 # Simple-Calculator
 
-<a href=""><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="license"/></a>
+<a href="#LICENCE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="license"/></a>
 
 A simple Calculator for general purposes.
 
